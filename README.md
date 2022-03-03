@@ -1,4 +1,7 @@
 # Tweet Analysis - German Goverment
+
+created by Kea Fronzek and Fynn Linus Kölling
+
 This repository contains a short script that outputs for any given Twitter account for the latest 3200 tweets:
 - a bar chart with the 15 most used words as .png
 - a word cloud with word occurrence over 100 as .png
